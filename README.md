@@ -28,10 +28,10 @@ c. employee_phone
 d. employee_salary
 Note: userid is foreign key of linked user table id.
 You have to write following mysql queries:-
-# Q1: Insert fake data to these tables.(50 rows)
-# Q2: Get 10 latest rows/ (from both the tables)
-# Q3: Get rows where the name has "cop" in them.
-# Q4: Get phone of user which employee_number has value 1 
-# Q5: Update employee_number value 1 email column. 
-# Q6: Get employees which have the highest employee_salary.
-# Q7: Delete one row query.
+### Q1: Insert fake data to these tables.(50 rows)
+### Q2: Get 10 latest rows/ (from both the tables)
+### Q3: Get rows where the name has "cop" in them.
+### Q4: Get phone of user which employee_number has value 1 
+### Q5: Update employee_number value 1 email column. 
+### Q6: Get employees which have the highest employee_salary.
+### Q7: Delete one row query.
