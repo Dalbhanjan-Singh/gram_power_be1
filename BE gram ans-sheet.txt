@@ -1,0 +1,10 @@
+1) a [1,2,3,4,5]
+2) d 2.33 GFGNO
+3) b runtime error
+4) primary key is the key by which we can uniquely get each record. a foreign key is column or set of column in a table whose values correspond to the value of primary key.single table can have multiple forign keys.
+5) A process that is repeated more than one time by applying the same logic is called an Iteration. in generators we uses function and loops for solving a problem
+6) c lambda
+7) b 2
+8) d error
+9) b 12
+10 b t[3] = 45 we cannot assign values again in tuple
