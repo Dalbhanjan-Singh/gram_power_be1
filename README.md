@@ -26,7 +26,9 @@ a. userid
 b. employee_number
 c. employee_phone
 d. employee_salary
-Note: userid is foreign key of linked user table id.
+
+# Note: userid is foreign key of linked user table id.
+
 You have to write following mysql queries:-
 ### Q1: Insert fake data to these tables.(50 rows)
 ### Q2: Get 10 latest rows/ (from both the tables)
